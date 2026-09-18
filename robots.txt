@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unhhgtjt.github.io/sitemap.xml
